@@ -14,15 +14,15 @@ This project is a web application designed to visualize the workings of various 
 - Performance metrics display for each sorting algorithm
   
 ## Example
-![Image 2023-11-01 at 5 35 PM](https://github.com/tyleroneil72/sorting-algorithm-visualizer/assets/43754564/89d81193-45e0-4211-9677-52a985a7a5c4)
+![Image 2023-11-01 at 5 35 PM](https://github.com/tyleroneildev/sorting-algorithm-visualizer/assets/43754564/89d81193-45e0-4211-9677-52a985a7a5c4)
 
-For a Live Demo [Click Here](https://htmlpreview.github.io/?https://github.com/tyleroneil72/sorting-algorithm-visualizer/blob/main/sorting_algorithms/index.html)
+For a Live Demo [Click Here](https://htmlpreview.github.io/?https://github.com/tyleroneildev/sorting-algorithm-visualizer/blob/main/sorting_algorithms/index.html)
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tyleroneil72/sorting-algorithm-visualizer.git
+git clone https://github.com/tyleroneildev/sorting-algorithm-visualizer.git
 cd sorting-algorithm-visualizer
 cd sorting_algorithms
 ```
